@@ -1,0 +1,46 @@
+nav{
+    background-color: black;
+    color: white;
+    text-align: center;
+
+}
+
+li{
+    display: inline;
+     margin-bottom: 20px;
+}
+
+li:hover{color: #62cb69;}
+
+body:hover{background-color: rgb(12, 12, 12);}
+
+.Receipe1,.Receipe2,.Receipe3,.Receipe4{
+    background-color: black;
+    color: white;
+    display: inline;
+    text-align: center;
+}
+.box{
+    border: 2px solid black;
+    width: 200px;
+
+   
+
+}
+img{
+    width: 200px;
+    height: 200px;
+
+}
+
+#main-class{
+    display:flex;
+    justify-content: space-around;
+    padding-top: 100px;
+}
+
+.main-form{
+    align-items: center;
+    color: rgb(84, 87, 87);
+}
+
